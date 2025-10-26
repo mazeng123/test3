@@ -1,0 +1,3 @@
+D:\Robotmaster\CMake\cmake-4.2.0-rc1-windows-x86_64\cmake-4.2.0-rc1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\cpp_tutorial.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\cpp_tutorial.dir/objects.a @CMakeFiles\cpp_tutorial.dir\objects1.rsp
+D:\mingw64\bin\g++.exe  -ID:/大一/机甲大师/Code/education/source/include -g -Wl,--whole-archive CMakeFiles\cpp_tutorial.dir/objects.a -Wl,--no-whole-archive -o bin\cpp_tutorial.exe -Wl,--out-implib,libcpp_tutorial.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cpp_tutorial.dir\linkLibs.rsp

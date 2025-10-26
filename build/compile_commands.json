@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/大一/机甲大师/Code/build",
+  "command": "D:\\mingw64\\bin\\g++.exe    -ID:/大一/机甲大师/Code/education/source/include -g -std=gnu++17 -o CMakeFiles\\cpp_tutorial.dir\\source\\src\\utils.cpp.obj -c D:\\大一\\机甲大师\\Code\\education\\source\\src\\utils.cpp",
+  "file": "D:/大一/机甲大师/Code/education/source/src/utils.cpp",
+  "output": "CMakeFiles/cpp_tutorial.dir/source/src/utils.cpp.obj"
+},
+{
+  "directory": "D:/大一/机甲大师/Code/build",
+  "command": "D:\\mingw64\\bin\\g++.exe    -ID:/大一/机甲大师/Code/education/source/include -g -std=gnu++17 -o CMakeFiles\\cpp_tutorial.dir\\source\\src\\Student.cpp.obj -c D:\\大一\\机甲大师\\Code\\education\\source\\src\\Student.cpp",
+  "file": "D:/大一/机甲大师/Code/education/source/src/Student.cpp",
+  "output": "CMakeFiles/cpp_tutorial.dir/source/src/Student.cpp.obj"
+},
+{
+  "directory": "D:/大一/机甲大师/Code/build",
+  "command": "D:\\mingw64\\bin\\g++.exe    -ID:/大一/机甲大师/Code/education/source/include -g -std=gnu++17 -o CMakeFiles\\cpp_tutorial.dir\\source\\src\\main.cpp.obj -c D:\\大一\\机甲大师\\Code\\education\\source\\src\\main.cpp",
+  "file": "D:/大一/机甲大师/Code/education/source/src/main.cpp",
+  "output": "CMakeFiles/cpp_tutorial.dir/source/src/main.cpp.obj"
+}
+]
